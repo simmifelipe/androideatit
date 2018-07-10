@@ -11,8 +11,8 @@ import androideatit.dev.fb.com.androideatit.R;
 
 public class FoodViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
-    private TextView food_name;
-    private ImageView food_image;
+    public TextView food_name;
+    public ImageView food_image;
 
     private ItemClickListener itemClickListener;
 
