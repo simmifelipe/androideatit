@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268145637188",
+    "firebase_url": "https://androideatit-b6003.firebaseio.com",
+    "project_id": "androideatit-b6003",
+    "storage_bucket": "androideatit-b6003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268145637188:android:a51c8ede4454de59",
+        "android_client_info": {
+          "package_name": "androideatit.dev.fb.com.androideatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268145637188-m79f4chjl1eiaf9ludv5ghi1k2he9sqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMvuxC7fRlRVHtzR0nkifpoY5KshWfYQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
