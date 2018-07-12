@@ -55,7 +55,7 @@ public class SignUp extends AppCompatActivity {
                         else
                         {
                             mDiadlog.dismiss();
-                            User user = new User(edtName.getText().toString(),edtPassword.getText().toString());
+                            User user = new User(edtName.getText().toString(),edtPassword.getText().toString(), "");
                             table_user.child(edtPhone.getText().toString()).setValue(user);
                             Toast.makeText(getBaseContext(), "Sign up successfully !", Toast.LENGTH_SHORT).show();
                             finish();
